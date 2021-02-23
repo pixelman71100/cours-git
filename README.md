@@ -1,3 +1,3 @@
 # cours-git
-Un répertoire à forker pour les étudiants du B1N du CNAM Chalon-sur-Saône
+Un repository à forker pour les étudiants du B1N du CNAM Chalon-sur-Saône
 
